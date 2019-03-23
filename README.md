@@ -7,7 +7,7 @@ This is an excellent resource to learning algorithms and data structures and thi
 
 The repository is organized in five topics represented by physical folders. Within each folder there are two more folders where all source code files (mostly `src/**/*.cs` and `test/**/*.cs`) must go in.
 
-- [ ] Basis – Introduces a scientific and engineering basis for comparing algorithms. 
+- [ ] Basics – Introduces a scientific and engineering basis for comparing algorithms. (in progress)
 - [ ] Sorting – Classic sorting algorithms, insertion sort, mergesort, and quicksort. 
 - [ ] Searching – Symbol-table implementations, including binary search trees, red–black trees, and hash tables.
 - [ ] Graphs – Graph-processing problems, including depth-first search, breadth-first search, minimum spanning trees, and shortest paths.
