@@ -5,7 +5,7 @@ This public repository contains the CSharp source code for the algorithms and cl
 
 This is an excellent resource to learning algorithms and data structures and this repository is part of my personal journey around this research field, set myself the challenge of implementing *the 50 algorithms that every programmer should know*. 
 
-The repository is organized in five topics represented by physical folders. Within each folder there are two more folders where all source code files (mostly `src/**/*.cs` and `test/**/*.cs`) must go in.
+The repository is organized in five topics represented by physical folders within `src/` folder.
 
 - [ ] Basics – Introduces a scientific and engineering basis for comparing algorithms. (in progress)
 - [ ] Sorting – Classic sorting algorithms, insertion sort, mergesort, and quicksort. 
@@ -21,7 +21,7 @@ To the best of my knowledge, these solutions are correct. If you find anything i
 
 ## Copyright
 
-Copyright © 2019–2019 by Ariel Lourenco.
+Copyright © 2019–2020 by Ariel Lourenco.
 
 ## License
 
