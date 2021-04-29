@@ -15,7 +15,7 @@ The repository is organized in five topics represented by physical folders withi
 
 ## Design Goals
 
-My main goal is to express the core algorithmic ideas in an elegant, simple and pedagogical manner, not pragmatic. I am not trying to save on space or obtain better perfomance than their counterparts in `System`.
+My main goal is to express the core algorithmic ideas in an elegant, simple and pedagogical manner, not pragmatic. I am not trying to save on space or obtain better perfomance than their counterparts in `System`. For Big-O time and space complexities of common algorithms used in .NET and Computer Science checkout the [Big-O Algorithm Complexity Cheat Sheet](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet).
 
 To the best of my knowledge, these solutions are correct. If you find anything incorrect feel free to create an issue or to open a pull request.
 
