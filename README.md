@@ -21,7 +21,7 @@ To the best of my knowledge, these solutions are correct. If you find anything i
 
 ## Copyright
 
-Copyright © 2019–2020 by Ariel Lourenco.
+Copyright © 2019–2021 by Ariel Lourenco.
 
 ## License
 
