@@ -19,6 +19,10 @@ My main goal is to express the core algorithmic ideas in an elegant, simple and 
 
 To the best of my knowledge, these solutions are correct. If you find anything incorrect feel free to create an issue or to open a pull request.
 
+## Code of Conduct
+
+This project has adopted the code of conduct defined by the [Contributor Covenant](https://www.contributor-covenant.org/) to clarify expected behavior in our community.
+
 ## Copyright
 
 Copyright © 2019–2021 by Ariel Lourenco.
