@@ -13,11 +13,17 @@ The repository is organized in five topics represented by physical folders withi
 - [ ] Graphs – Graph-processing problems, including depth-first search, breadth-first search, minimum spanning trees, and shortest paths.
 - [ ] Strings – Investigates specialized algorithms for string processing, including radix sorting, substring search, tries, regular expressions, and data compression.
 
+**Note**: To the best of my knowledge, these solutions are correct. If you find anything incorrect feel free to create an issue or to open a pull request.
+
 ## Design Goals
 
 My main goal is to express the core algorithmic ideas in an elegant, simple and pedagogical manner, not pragmatic. I am not trying to save on space or obtain better perfomance than their counterparts in `System`. For Big-O time and space complexities of common algorithms used in .NET and Computer Science checkout the [Big-O Algorithm Complexity Cheat Sheet](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet).
 
-To the best of my knowledge, these solutions are correct. If you find anything incorrect feel free to create an issue or to open a pull request.
+To learn more about Big O notation, check out this video from HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell: 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=v4cd1O4zkGw" target="_blank">
+ <img src="http://img.youtube.com/vi/v4cd1O4zkGw/hqdefault.jpg" alt="Big O notation" title="Big O notation" width="560" height="315" border="10" />
+</a>
 
 ## Code of Conduct
 
